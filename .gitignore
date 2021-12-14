@@ -1,0 +1,10 @@
+.idea
+.history
+
+main
+go-web-example
+web-server
+go.sum
+
+vendor
+logs
